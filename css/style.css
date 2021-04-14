@@ -1,0 +1,253 @@
+body{
+    background-color: silver;
+}
+.table_top{
+    color:red;
+    background-color:rebeccapurple;
+}
+.tr_1{
+    color: seashell;
+    background-color: springgreen;
+}
+
+.tr_2{
+    color: steelblue;
+    background-color: violet;
+}
+.td_2{
+    color:tomato;
+    background-color: yellow;
+}
+.heading_tag{
+    color:whitesmoke;
+    background-color: black;
+}
+.heading_example{
+    background-color: chocolate;
+    color: darkblue;
+}
+.heading_two{
+    background-color: darkorange;
+    color: darkorchid;
+}
+.tr_3{
+    background-color: darkred;
+    color:darkturquoise;
+    font-size: 40px;
+}
+.tr_4{
+    background-color: darkviolet;
+    color:deeppink;
+}
+.td_4{
+    background-color: dimgray;
+    color: dodgerblue;
+}
+.tag_name{
+    background-color: gold;
+    color: gray;
+}
+.tag_define{
+    background-color: honeydew;
+    color: hotpink;
+}
+.tag_use{
+    background-color:hotpink;
+    color: lawngreen;
+}
+.tr_5{
+    background-color: lemonchiffon;
+    color: black;
+    font: 35px;
+}
+.tr_6{
+    background-color: burlywood;
+    color: crimson;
+    font:50px;
+}
+.tr_7{
+    background-color: crimson;
+    color: darkgrey;
+}
+.tr_8{
+    background-color: darkorchid;
+    color:cornsilk;
+    font-size: 15px;
+}
+.tr_9{
+    background-color: rgb(204, 189, 50);
+    color:rgb(255, 220, 223);
+    font-size: 15px;
+}
+.tr_10{
+    background-color: darkgreen;
+    color:gainsboro;
+    font-size: 15px;
+}
+.tr_12{
+    background-color: lightcoral;
+    color:mediumblue;
+    font-size: 20px;
+}
+.tr_13{
+    background-color: cyan;
+}
+.tr_14{
+    background-color: darkcyan;
+    font-size: 15px;
+
+}
+.tr_15{
+    color:violet;
+    background-color: steelblue;
+}
+.tag_name15{
+    color: tomato;
+    background-color: springgreen;
+}
+.tag_define15{
+    color: rgb(223, 31, 121);
+    background-color: snow;
+}
+.tag_example15{
+    color:rgb(125, 250, 114);
+    background-color: slategray;
+}
+.tr_16{
+    color: red;
+    background-color: saddlebrown;
+}
+.tr_17{
+    color:blue;
+    background-color: crimson;
+}
+.tag_no17{
+    background-color: crimson;
+    color: cyan;
+}
+.tag_name17{
+    background-color: darkgoldenrod;
+    color: darkgreen;
+
+}
+.tag_define17{
+    background-color: darkgreen;
+    color: rgb(139, 0, 0);
+
+}
+.tag_work17{
+    background-color: darkmagenta;
+    color: darkorange;
+}
+.tr_18{
+    background-color: darkorchid;
+    color: deeppink;
+}
+.tr_19{
+    color: deeppink;
+    background-color: dimgrey;
+}
+.tr_20{
+    background-color: dodgerblue;
+    color: gold;
+}
+.tr_21{
+    background-color: gold;
+    color: gray;
+}
+.td_21{
+    background-color: hotpink;
+    color: green;
+
+}
+.tag_name21{
+    background-color: greenyellow;
+    color: hotpink;
+
+}
+.tag_define21{
+    background-color: ivory;
+    color: lightcoral;
+
+
+}
+.tag_work21{
+    color: lightcoral;
+    background-color: blue;
+}
+.tr_22{
+    color: cornsilk;
+    background-color: blueviolet;
+}
+.tr_23{
+    color: fuchsia;
+    background-color: indigo;
+}
+.tr_24{
+    background-color: lightcoral;
+}
+.tr_25{
+    color: lightcoral;
+    background-color: lightcyan;
+
+}
+.tr_26{
+    color: mediumspringgreen;
+    background-color:olive;
+}
+.td_26{
+    background-color: aliceblue;
+    color: black;
+
+}
+.tag_name26{
+    background-color: burlywood;
+    color: chartreuse;
+
+}
+.tag_define26{
+    background-color: chocolate;
+    color: crimson;
+}
+.tag_work26{
+    background-color: darkseagreen;
+    color: firebrick;
+}
+.tag_work27{
+    color: gainsboro;
+    background-color: black;
+}
+.tag_define27{
+    background-color: cadetblue;
+    color: chartreuse;
+
+}
+.tag_name27{
+    background-color: cornsilk;
+    color:crimson
+}
+.td_27{
+    background-color: cyan;
+    color: darkorange;
+}
+.tr_29{
+   background-color:cornsilk;
+   color: crimson;
+
+}
+.tr_8{
+    color: gainsboro;
+    background-color: black;
+
+}
+.tr_30{
+    background-color:cyan;
+    color:darkorange;
+}
+.tr_31{
+    background-color: darkslategray;
+    color: forestgreen;
+}
+
+
+
